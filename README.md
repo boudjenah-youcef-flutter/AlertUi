@@ -1,4 +1,3 @@
-لإنشاء ملف **README** للمشروع الذي يعمل على **Alert UI** باستخدام **React**, **TypeScript**, و**Sass**, يمكنك استخدام النموذج التالي. سأضع فيه تفاصيل أساسية حول المشروع، كيفية الإعداد، والتشغيل، وأي معلومات أخرى قد تكون مفيدة.
 
 ```markdown
 # Alert UI Component
@@ -96,5 +95,5 @@ Contributions are welcome! Please open an issue or a pull request if you have su
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-```
+
 
